@@ -1,6 +1,2 @@
-<<<<<<< HEAD
 fsf
-=======
-fff
-sss
->>>>>>> first_branch
+
